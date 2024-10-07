@@ -28,7 +28,8 @@ Al finalizar la utilización de la aplicación, se guarda el historial de las di
 ![image](https://github.com/user-attachments/assets/040df8e9-8564-4069-85b3-7aeaf7a8914d)
 
 
-## Desarrollado por Alberto Buituron
+## Desarrollado por Alberto Buituron ![image](https://github.com/user-attachments/assets/e05a4622-a59a-4f73-9005-7ff43d687be3)
+
 
 
 
